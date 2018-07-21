@@ -3,7 +3,8 @@ function toInput(id) {
     document.getElementById('result').value += value;
 }
 
-function subtract(a, b){
-    console.log('subtract')
+function subtract(){
+    const a = document.getElementById('').value;
+    const b = document.getElementById('').value;
     return a-b;
 }
