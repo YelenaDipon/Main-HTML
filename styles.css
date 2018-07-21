@@ -23,3 +23,10 @@ button.number{
     background: aliceblue;
     font-size: 30px;
 }
+
+.button-minus{
+    background: brown;
+    border: 1px solid whitesmoke;
+    padding: 15px 25px;
+    font-size: 20px;
+}
